@@ -1,3 +1,7 @@
+==========
+CHARACTER
+==========
+
 Ini adalah nama-nama karakter dalam cerita kita nanti.
 
 Character name :
