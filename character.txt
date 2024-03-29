@@ -1,1 +1,7 @@
 Ini adalah nama-nama karakter dalam cerita kita nanti.
+
+Character name :
+- Nick
+- Tom
+- Daisy
+- Jordan
